@@ -17,8 +17,8 @@ NFTs can be purchased using Ethereum: cryptocurrency. Remember the days of colle
 
 ### How do NFTs actually work?
 
-You need to lock and load your crypto wallet, which you can connect and track, if you’re interested in purchasing NFTs as everything operates digitally. 
-Due to the increasing hype, there are now ‘drops’ that not only build anticipation but can make bidding a very interesting experience for all eager and willing participants.
+If you're interested in purchasing NFTs, then you will need to lock and load your crypto wallet, which you can connect and track. 
+With the increasing hype, there are now 'drops' that not only build anticipation, but also make bidding very interesting for all eager and willing participants.
 
 ### How can I create my own NFT?
 
