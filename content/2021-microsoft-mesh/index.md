@@ -4,7 +4,7 @@ tags: [technology]
 date: 2021-03-09T05:25:44.226Z
 path: blog/about-microsoft-mesh
 cover: ./preview.png
-excerpt: Is this the future?
+excerpt: Is this the future? Microsoft Mesh is a Mixed Reality platform intended to make collaboration and app creation easier.
 ---
 
 ### What is Microsoft Mesh?

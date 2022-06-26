@@ -55,4 +55,4 @@ The Graph protocol’s ability to create a global grid of public information, he
 [theGraph](https://thegraph.com/docs)
 
 
-<img src="./end.png" alt="end" style="display:block;margin:auto">
+<img src="./end.png" alt="The end" style="display:block;margin:auto">
