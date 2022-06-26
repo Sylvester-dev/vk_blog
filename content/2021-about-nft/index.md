@@ -4,7 +4,7 @@ tags: [blockchain]
 date: 2021-01-10T05:25:44.226Z
 path: blog/about-nft
 cover: ./preview.png
-excerpt: Lets see what are these buzz about NFT's.
+excerpt: NFTs known as a non-fungible token, meaning that each token is unique, one-of-one. It cannot be traded and is exclusive to the owner.
 ---
 
 ### What is an NFT?

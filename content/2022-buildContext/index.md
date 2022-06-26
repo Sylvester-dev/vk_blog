@@ -4,7 +4,7 @@ tags: [flutter]
 date: 2022-03-19T05:25:44.226Z
 path: blog/flutter-buildContext
 cover: ./preview.png
-excerpt: Learning about Flutter buildContext
+excerpt: Learning about Flutter buildContext that is critical to the creation of applications.
 
 ---
 
